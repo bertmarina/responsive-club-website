@@ -137,7 +137,7 @@ h4 {
   font-size: 1.5em;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 650px) {
 
   header {
     width: 100%;
@@ -168,6 +168,7 @@ h4 {
   
   .b {
     grid-area: 2 / 1 / 2 / 1;
+    padding: 0 5px;
   }
   
   .d {
