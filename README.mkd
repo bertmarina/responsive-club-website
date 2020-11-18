@@ -1,0 +1,6 @@
+# Responsive Club Website
+## Creating a responsive webpage using **Grid** 
+It has been created only with HTML and CSS and with no interaction.  
+The aim was to make an exercise to use grid and also make the page responsive.  
+  
+The project is part of the **Full-Stack engineer course** available by codecademy.com
